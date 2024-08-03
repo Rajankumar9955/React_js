@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "id": "683d",
+      "rollno": "47",
+      "name": "Rajan kumar",
+      "city": "sitamarhi",
+      "fees": "38250"
+    },
+    {
+      "id": "4318",
+      "rollno": "210",
+      "name": "Suraj kumar",
+      "city": "sitamarhi",
+      "fees": "45000"
+    },
+    {
+      "id": "01a2",
+      "rollno": "30",
+      "name": "Hariom kumar",
+      "city": "sitamarhi",
+      "fees": "45000"
+    },
+    {
+      "id": "57b1"
+    }
+  ]
+}
